@@ -58,7 +58,7 @@ Before you get started, you are expected to have some other software on your com
 
     macOS/Linux:  `export FLASK_APP=main.py`
     
-    Windows: `set FLASK_APP=main.py` or try `$env:FLASK_APP = "main.py`
+    Windows: Set the environment variable by running `$env:FLASK_APP = "main.py"`
 
 - run your flask application: 
 
